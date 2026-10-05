@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <rect width="40" height="40" rx="12" fill="#302a7d"/>
+  <text x="20" y="24" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="-1">CWA</text>
+  <path d="M12 29h16" stroke="#68dbc1" stroke-width="2" stroke-linecap="round"/>
+</svg>
